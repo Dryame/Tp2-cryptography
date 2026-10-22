@@ -1,0 +1,17 @@
+# Le dossier de travail (sandbox) est strictement interdit
+sandbox/
+
+# Les clés et fichiers générés par OpenSSL sont interdits (SÉCURITÉ)
+*.key
+*.pem
+*.crt
+*.csr
+*.pub
+*.sig
+*.enc
+*.srl
+
+# Fichiers temporaires de l'OS ou de Python
+.DS_Store
+__pycache__/
+*.pyc
