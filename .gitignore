@@ -16,3 +16,4 @@ tp2/pki/
 
 # Exceptions publiques à livrer
 !**/crls.pem
+.vscode/
